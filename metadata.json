@@ -1,0 +1,5 @@
+{
+  "name": "PastelCare HMS",
+  "description": "A modern, pastel-themed Hospital Management System built with React, TypeScript, and Tailwind CSS. Features include patient management, appointment scheduling, staff administration, and an AI-powered medical assistant using the Gemini API.",
+  "requestFramePermissions": []
+}
